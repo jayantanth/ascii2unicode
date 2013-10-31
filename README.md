@@ -1,6 +1,7 @@
 # ASCII to Unicode Encoding Converter for Bengali.
 
-https://github.com/bahar/BijoyToUnicode/zipball/master
+Download master from https://github.com/jayantanth/ascii2unicode/zipball/master
+
 
 As of now it works with Nudi and Baraha encoding, This script can convert the text file with Nudi/Baraha encoded text to Unicode.
 
